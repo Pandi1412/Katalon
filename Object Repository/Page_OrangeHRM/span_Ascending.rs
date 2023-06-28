@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ascending</name>
+   <tag></tag>
+   <elementGuidId>a49202ca-308b-472e-a15c-cef9348df9be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div[3]/div/div/div/div[3]/div/div/ul/li/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.--active.oxd-table-header-sort-dropdown > ul > li.oxd-table-header-sort-dropdown-item > span.oxd-text.oxd-text--span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a14791f3-3e04-4947-aa8a-3c1618997d0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--span</value>
+      <webElementGuid>23f208c1-8812-4ec5-8737-3a836d506401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ascending</value>
+      <webElementGuid>16ceeefd-4cde-4c6a-b8da-1353c5c0c9ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-candidate-page&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[@class=&quot;orangehrm-container&quot;]/div[@class=&quot;oxd-table&quot;]/div[@class=&quot;oxd-table-header&quot;]/div[@class=&quot;oxd-table-row oxd-table-row--with-border&quot;]/div[@class=&quot;oxd-table-header-cell oxd-padding-cell oxd-table-th&quot;]/div[@class=&quot;oxd-table-header-sort&quot;]/div[@class=&quot;--active oxd-table-header-sort-dropdown&quot;]/ul[1]/li[@class=&quot;oxd-table-header-sort-dropdown-item&quot;]/span[@class=&quot;oxd-text oxd-text--span&quot;]</value>
+      <webElementGuid>7b129206-df2e-4566-bbc9-1c829c4817c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div[3]/div/div/div/div[3]/div/div/ul/li/span</value>
+      <webElementGuid>910b771b-9b86-4c82-8b8b-5c0c12756bc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/ul/li/span</value>
+      <webElementGuid>3d78304a-5fe5-4a7f-8619-fb2ca6c5c961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ascending' or . = 'Ascending')]</value>
+      <webElementGuid>9981d276-18bb-4344-a6ef-2af9bc56d4e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
