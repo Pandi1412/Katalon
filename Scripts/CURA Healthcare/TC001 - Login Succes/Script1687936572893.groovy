@@ -27,7 +27,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Se
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/h2_Make Appointment'))
+WebUI.verifyEqual(WebUI.getUrl(), "https://katalon-demo-cura.herokuapp.com/#appointment")
 
 WebUI.closeBrowser()
 
