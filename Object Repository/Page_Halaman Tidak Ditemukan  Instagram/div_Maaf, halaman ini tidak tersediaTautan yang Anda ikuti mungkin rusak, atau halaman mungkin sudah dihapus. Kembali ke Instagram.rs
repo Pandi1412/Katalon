@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Maaf, halaman ini tidak tersediaTautan yang Anda ikuti mungkin rusak, atau halaman mungkin sudah dihapus. Kembali ke Instagram</name>
+   <tag></tag>
+   <elementGuidId>1c1c95ae-313b-4b6b-8b46-f7ddf823d3ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_HG']/div/div/div/div/div/div/div/section/main/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.x9f619.xjbqb8w.x78zum5.x168nmei.x13lgxp2.x5pf9jr.xo71vjh.xbxaen2.x1u72gb5.x1t1ogtf.x13zrc24.x1n2onr6.x1plvlek.xryxfnj.x1c4vz4f.x2lah0s.xdt5ytf.xqjyukv.x1qjc9v5.x1oa3qoh.xl56j7k</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bec3f2a9-e80b-4d95-bf26-ed6e221b1714</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh xbxaen2 x1u72gb5 x1t1ogtf x13zrc24 x1n2onr6 x1plvlek xryxfnj x1c4vz4f x2lah0s xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh xl56j7k</value>
+      <webElementGuid>67693c0c-e1e5-45b0-92ef-097d333bccc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Maaf, halaman ini tidak tersediaTautan yang Anda ikuti mungkin rusak, atau halaman mungkin sudah dihapus. Kembali ke Instagram.</value>
+      <webElementGuid>29f2beb1-ca90-45ed-a1f6-134f6f3c354d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_HG&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 xat3117 xxzkxad&quot;]/div[@class=&quot;x78zum5 xdt5ytf x10cihs4 x1t2pt76 x1n2onr6 x1ja2u2z&quot;]/section[@class=&quot;x78zum5 xdt5ytf x1iyjqo2 xg6iff7 x6ikm8r x10wlt62&quot;]/main[@class=&quot;_a993 _a994&quot;]/div[1]/div[@class=&quot;x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh xbxaen2 x1u72gb5 x1t1ogtf x13zrc24 x1n2onr6 x1plvlek xryxfnj x1c4vz4f x2lah0s xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh xl56j7k&quot;]</value>
+      <webElementGuid>c1530513-3630-4bd6-9d8b-83f198bc9d35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_HG']/div/div/div/div/div/div/div/section/main/div/div</value>
+      <webElementGuid>09d1688d-67e7-4e8f-93c1-02d5086c4a4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div</value>
+      <webElementGuid>264a7ec1-3695-47b3-8521-8bf891d52e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Maaf, halaman ini tidak tersediaTautan yang Anda ikuti mungkin rusak, atau halaman mungkin sudah dihapus. Kembali ke Instagram.' or . = 'Maaf, halaman ini tidak tersediaTautan yang Anda ikuti mungkin rusak, atau halaman mungkin sudah dihapus. Kembali ke Instagram.')]</value>
+      <webElementGuid>3fc81f3b-dfdc-4aa1-8873-3c190342a30b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
